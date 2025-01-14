@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "themes": {
     "dark": [
       {
@@ -7,7 +7,7 @@
         "extension": "CustomTheme",
         "theme": "Yagiz Erdem",
         "origin": "GitHub",
-        "licance": "fjlajflajf"
+        "license": "fjlajflajf"
       }
     ],
     "light": []
